@@ -1,6 +1,7 @@
 # Arc en ciel
-Rouge
-vert
-bleu
-jaune
-violet
+* Rouge
+* vert
+* bleu
+* jaune
+* violet
+* rose
